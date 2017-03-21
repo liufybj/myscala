@@ -7,7 +7,7 @@ import liufybj.scala.HelloWorld;
  */
 public class App {
     public static void main(String[] args) {
-        HelloWorld.print();
+        HelloWorld.print1();
     }
 
 }
